@@ -54,5 +54,4 @@ vendor/bin/codecept run
 ```
 
 The command above will execute unit and functional tests. Unit tests are testing the system components, while functional
-tests are for testing user interaction. Acceptance tests are disabled by default as they require additional setup since
-they perform testing in real browser. 
+tests are for testing user interaction. 
