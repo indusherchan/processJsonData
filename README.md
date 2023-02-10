@@ -31,7 +31,7 @@ INSTALLATION
 After composer install you should be able to access the application through the following URL, assuming `ajb-task` is the directory
 directly under the Web root.
 
-{{base-url}}/ajb-task/web
+{{base-url}}/ajb-tech-task/web
 
 or at http://localhost:8080  
 `php yii serve`
