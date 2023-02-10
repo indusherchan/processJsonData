@@ -1,25 +1,36 @@
-# CakePHP 3
+# phpstorm project files
+.idea
 
-/vendor/*
-/config/app.php
+# netbeans project files
+nbproject
 
-/tmp/cache/models/*
-!/tmp/cache/models/empty
-/tmp/cache/persistent/*
-!/tmp/cache/persistent/empty
-/tmp/cache/views/*
-!/tmp/cache/views/empty
-/tmp/sessions/*
-!/tmp/sessions/empty
-/tmp/tests/*
-!/tmp/tests/empty
+# zend studio for eclipse project files
+.buildpath
+.project
+.settings
 
-/logs/*
-!/logs/empty
+# windows thumbnail cache
+Thumbs.db
 
-# CakePHP 2
+# composer vendor dir
+/vendor
 
-/app/tmp/*
-/app/Config/core.php
-/app/Config/database.php
-/vendors/*
+# composer itself is not needed
+composer.phar
+
+# composer lock
+composer.lock
+
+# Mac DS_Store Files
+.DS_Store
+
+# phpunit itself is not needed
+phpunit.phar
+# local phpunit config
+/phpunit.xml
+
+tests/_output/*
+tests/_support/_generated
+
+#vagrant folder
+/.vagrant
