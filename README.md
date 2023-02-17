@@ -1,5 +1,5 @@
 
-This technical task project is created with Yii 2 Basic Project Template
+This Process Json Data project is created with Yii 2 Basic Project Template
 
 DIRECTORY STRUCTURE
 -------------------
@@ -28,10 +28,10 @@ INSTALLATION
 ### Install via Composer
 
 
-After composer install you should be able to access the application through the following URL, assuming `ajb-task` is the directory
+After composer install you should be able to access the application through the following URL, assuming `processJsonData` is the directory
 directly under the Web root.
 
-{{base-url}}/ajb-tech-task/web
+{{base-url}}/processJsonData/web
 
 or at http://localhost:8080  
 `php yii serve`
