@@ -19,7 +19,7 @@ DIRECTORY STRUCTURE
 REQUIREMENTS
 ------------
 
-The minimum requirement by this project template that your Web server supports PHP 7.4 ideal PHP 8.1
+The minimum requirement by this project template that your Web server supports PHP 7.4
 
 
 INSTALLATION
